@@ -12,7 +12,7 @@ public class SourceScanner {
 		System.out.print(new Date());
 		System.out.println(" - Source Scanner...");
 
-		// Analise file as a simple text using regexp, instead of parsing the XML...
+		// Analyse file as a simple text using regex, instead of parsing the XML...
 
         try {
 
