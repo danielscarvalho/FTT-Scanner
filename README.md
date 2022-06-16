@@ -16,3 +16,6 @@ Reference:
 
 - https://www.devmedia.com.br/como-funciona-a-classe-scanner-do-java/28448
 - https://docs.oracle.com/javase/8/docs/api/java/util/Scanner.html
+- https://mestresdaweb.com.br/tecnologias/como-funciona-a-classe-scanner-do-java/
+
+É possível também criar um analisador léxico com a classe Scanner, ou de forma automatizada com o Lex, JLex, Flex, entre outros...
